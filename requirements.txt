@@ -1,0 +1,6 @@
+tiktoken==0.12.0
+#presidio_analyzer==2.2.359
+#presidio_anonymizer==2.2.359
+openai==2.6.0
+google-cloud-dlp==3.33.0
+boto3==1.40.56
